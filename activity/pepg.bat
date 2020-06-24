@@ -1,0 +1,1 @@
+node gl.js "credFile1.json"
